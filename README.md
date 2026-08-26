@@ -30,7 +30,7 @@ Durante o semestre, os seguintes conceitos estão sendo explorados e aplicados n
 Os arquivos estão organizados de forma cronológica e por tópicos para facilitar a navegação:
 
 * `/Lista01-Condicionais`: Problemas envolvendo tomada de decisão.
-* `/Lista03-Repeticao`: Exercicios focados em loops
+* `/Lista02-Repeticao`: Exercicios focados em loops
 * `/Lista03-Provas parciais`: 
 * `/TrabalhoFinal`: [Breve descrição se houver um projeto maior].
 
