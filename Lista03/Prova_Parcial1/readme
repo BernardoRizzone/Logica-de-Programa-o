@@ -1,1 +1,35 @@
+CEUB - FATECS
+Lógica de Programação - Prof. Barbosa 
+Prova Prática (PP) – Questão 1
 
+
+- Prazo para entrega no Moodle (sala on-line): 25/8, até 23h59.
+
+Atenção: entregue a questão da prova prática (PP) dentro do prazo definido acima.
+ 
+- Envio: envie os arquivos “.py” na sala on-line da disciplina, no tópico Prova Prática.
+
+- Resolva os problemas usando a linguagem de programação Python e os conceitos da disciplina Lógica de Programação.
+
+
+
+- Implemente:
+
+	Implemente o programa que calcule o volume de uma esfera de raio R. O usuário fornecerá o dado necessário.          Onde:	 volume = 4  r3   
+	   	 	     	                                         3
+
+	 A água é um nutriente essencial. Sem ela, o corpo não pode funcionar com perfeição. Cada pessoa precisa de uma quantidade diferente de água para hidratar o corpo. A dose ideal, ou seja, a necessidade diária em litros é calculada através da fórmula: massa (em kg) vezes 0,03. Elabore o programa que realize esse cálculo. 
+
+	Construa o programa que tendo como dados de entrada dois pontos quaisquer do plano cartesiano, P(x1, y1) e Q(x2, y2), calcule a distância entre eles. Use a seguinte fórmula:
+distância =  √((x_2-〖x_1)〗^2+〖(y_2-〖y_1〗_ )〗^2 ) 
+
+	Elabore o programa que simule uma calculadora com as quatro operações aritméticas básicas. O usuário fornecerá dois números e a operação aritmética desejada. Mostre o menu com estes símbolos (+ , - , * , / ) para o usuário escolher a operação aritmética. 
+Utilize o comando “se . . . senão . . . ” encadeado, ou seja, “if . . . else . . . ” encadeado. 
+
+
+
+Atenção: entregue a prova prática (PP) dentro do prazo definido acima.
+
+
+
+Prof. Barbosa
